@@ -17,3 +17,16 @@ h1{
     bottom: 18px;
     left: 64px
 }
+
+main{
+    background-color: lightblue;
+    padding: 35px 350px;
+
+}
+
+#square{
+    margin: auto;
+    width: 80%;
+    height: 80vh;
+    background-color: white;
+}
