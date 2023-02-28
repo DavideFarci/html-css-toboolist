@@ -4,7 +4,12 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+body{
+    background-color: lightblue;
+}
+
 header{
+    background-color: white;
     position: relative;
     padding: 10px;
 }
@@ -19,14 +24,14 @@ h1{
 }
 
 main{
-    background-color: lightblue;
-    padding: 35px 350px;
+    /* background-color: lightblue; */
+    padding: 50px 100px 0 100px;
 
 }
 
 #square{
     margin: auto;
     width: 80%;
-    height: 80vh;
+    height: 85vh;
     background-color: white;
 }
