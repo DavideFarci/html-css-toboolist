@@ -41,7 +41,7 @@ main{
 
 #square{
     /* max-width: 550px; */
-    border-radius: 8px;
+    border-radius: 10px;
     margin: auto;
     width: 80%;
     /* height: 85vh;  questo non va bene */
@@ -49,7 +49,7 @@ main{
 }
 
 .buttons{
-    border-bottom: 1px solid rgb(246,248,249);
+    border-bottom: 2px solid rgb(246,248,249);
     padding: 15px 70px;
 }
 
