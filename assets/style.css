@@ -18,7 +18,7 @@ Img{
 
 header{
     background-color: white;
-    position: relative;
+    /* position: relative; */
     padding: 10px;
 }
 
@@ -26,9 +26,10 @@ h1{
     font-size: 38px;
     font-weight: 790;
     display: inline-block;
-    position: absolute;
+    /* position: absolute;
     bottom: 18px;
-    left: 64px
+    left: 64px */
+    vertical-align: 12px;
 }
 
 main{
